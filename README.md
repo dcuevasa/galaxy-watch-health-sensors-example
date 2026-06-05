@@ -1,6 +1,11 @@
 # Multisensor Tracking
 
-This project is a functional example demonstrating the implementation of the Samsung Health Sensor API for Wear OS. 
+This project is a functional example demonstrating the implementation of the Samsung Health Sensor API for Wear OS.
+
+## 🚀 Releases & Downloads
+
+* **Latest Release**: [v.1.0.0](https://github.com/dcuevasa/galaxy-watch-health-sensors-example/releases/tag/v.1.0.0)
+* **Direct APK Download**: [app-debug.apk](https://github.com/dcuevasa/galaxy-watch-health-sensors-example/releases/download/v.1.0.0/app-debug.apk)
 
 ## Source Codelab
 
