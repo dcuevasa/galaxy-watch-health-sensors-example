@@ -20,3 +20,14 @@ Since it is ignored in version control, you must download it manually and place 
 
 - **Direct Download Link to `.aar`**: [Download samsung-health-sensor-api-1.4.1.aar](https://developer.samsung.com/SHealth/file/13ab7f19-be94-4b52-917f-34dd688cf857)
 - **Overview and Other Examples**: [Samsung Health Sensor API Overview](https://developer.samsung.com/health/sensor/overview.html)
+
+## Enabling Developer Mode for Health Platform
+
+Go to Settings > Apps > Health Platform on your watch.
+
+Find the words "Health Platform" (the actual title text) at the very top of that menu.
+
+Quickly tap that title text about 10 times.
+
+### Verification
+You will know it worked when the text [Dev mode] appears directly below the "Health Platform" title. If you ever need to turn it off, you simply tap the title 10 times again until the tag disappears.
